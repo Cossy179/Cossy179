@@ -65,7 +65,8 @@
 <p align="left">
 
 <a href = "https://github.com/Cossy179"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://www.linkedin.com/in/alexhalliday"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/alex-halliday-13515820b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_alex.halliday_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
